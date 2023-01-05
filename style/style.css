@@ -78,11 +78,12 @@ main {
     max-width: 1140px;
     margin: 0 auto;
 }
-
+section{
+    margin-top: 130px;
+}
 /* about section styles */
 
 .about {
-    margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -147,3 +148,5 @@ main {
 .skill-description {
     color: #757575;
 }
+
+/* Resume section */
